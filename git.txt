@@ -1,3 +1,4 @@
 ‰‚ß‚ÄGit‚Ì—ûK‚ğ‚µ‚Ü‚·B
 •Ï‚È•¶š‚à‘Å‚¿‚Ü‚·
 git comitaaaa
+git status 2
